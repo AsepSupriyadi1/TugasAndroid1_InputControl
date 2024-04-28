@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AsepSupriyadi_LatihanPertemuan5</string>
+    <string name="judul_form">Form tambah kontak</string>
+    <string name="judul_profile">Profile</string>
+    <string name="label_nomorPonsel">Nomor ponsel :</string>
+    <string name="placeholder_nomorPonsel">Masukan nomor ponsel</string>
+    <string name="label_namaKontak">Nama kontak :</string>
+    <string name="placeholder_namaKontak">Masukan nama kontak</string>
+    <string name="label_tanggal">Tanggal :</string>
+    <string name="label_tombolSubmit">Submit data</string>
+    <string name="judul_list">Kontak tersimpan</string>
+    <string name="list">- belum ada data -</string>
+</resources>
